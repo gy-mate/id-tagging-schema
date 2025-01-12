@@ -1,5 +1,8 @@
 {
     "icon": "maki-entrance-alt1",
+    "moreFields": [
+        "opening_hours"
+    ],
     "geometry": [
         "vertex"
     ],
